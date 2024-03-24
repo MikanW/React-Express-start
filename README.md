@@ -1,0 +1,1 @@
+A quick starter of React + Express application.
